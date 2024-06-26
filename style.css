@@ -1,0 +1,61 @@
+.video-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px; /* Ширина контейнера для видео */
+    margin: auto;
+}
+.video-container iframe {
+    width: 100%;
+    /* height: 315px; Пропорции 16:9 */
+}
+.video2{
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+}
+.video2 iframe{
+    width: 100%;
+    height: 315px;
+}
+.video3{
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+}
+.video3 iframe{
+    width: 100%;
+    height: 315px;
+}
+.video4{
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+}
+.video4 iframe{
+    width: 100%;
+    height: 315px;
+}
+.wuthering-waves{
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+}
+.wuthering-waves iframe{
+    width: 100%;
+    height: 315px;
+}
+
+.eminem{
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+}
+.eminem iframe{
+    width: 100%;
+    height: 315px;
+}
